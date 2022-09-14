@@ -1,0 +1,24 @@
+{
+  "name": "javascript-new-features",
+  "version": "1.0.0",
+  "description": "Project realized to put into practice the latest ecmascript 2022 features.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosMejia01/javascript-new-features.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosMejia01/javascript-new-features/issues"
+  },
+  "homepage": "https://github.com/CarlosMejia01/javascript-new-features#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
